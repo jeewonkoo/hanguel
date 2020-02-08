@@ -1,0 +1,66 @@
+@font-face { font-family: 'EBSHunminjeongeumSBA'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSHunminjeongeum.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'CHONBUKL'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/CHONBUKL.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+*{
+  font-family: 'EBSHunminjeongeumSBA';
+}
+
+h1{
+
+  font-family: 'EBSHunminjeongeumSBA';
+  text-align: center;
+  font-size: 150px;
+  position: relative;
+  font-style: bold;
+  padding: 300px 20px;
+  color: black;
+  margin-top: 0;
+
+}
+
+h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.bigbreak {
+  height: 100px;
+}
+
+.smallbreak {
+  height: 50px;
+}
+
+.smallerbreak {
+  height: 25px;
+}
+
+h2 {
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+
+.explain{
+  font-size: 30px;
+  opacity: 0.4;
+  font-family: 'EBSHunminjeongeumSBA';
+  text-align: center;
+}
+
+.content {
+  margin: auto;
+}
+
+.extra {
+  font-family: 'CHONBUKL';
+  font-size: 100px;
+}
+
+.count {
+  font-size: 60px;
+}
+
+.resource {
+  font-size: 15px;
+}
